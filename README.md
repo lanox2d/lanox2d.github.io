@@ -1,4 +1,4 @@
-# LANOOX Open Source Project Website
+# Lanox2d Open Source Project Website
 
 Building ...
 
